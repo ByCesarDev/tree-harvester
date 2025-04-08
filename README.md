@@ -44,7 +44,7 @@ With the **Tree Harvester** addon, you can fell entire trees by simply **crouchi
 ## **Configurable**
 
 You can configure the addon directly in the script file located at:  
-`com.mojang/behavior_packs/Tree Harvester BP/scripts/main.js` (lines 118â€“121)
+`com.mojang/behavior_packs/Tree Harvester BP/scripts/main.js` (lines 118-121)
 
 - **`breakSpeed`**: Sets the speed (in milliseconds) at which blocks break. Default is `2`. Lower = faster but may reduce performance.  
 - **`customLogsAndLeaves`**: `true` (default) allows harvesting of custom blocks ending in `_log` or `_leaves`. Set to `false` to disable.  
