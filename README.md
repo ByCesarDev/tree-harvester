@@ -24,22 +24,22 @@ With the **Tree Harvester** addon, you can fell entire trees by simply **crouchi
 
 ## **Key Features**
 
-- âœ… Quickly harvest entire trees by crouching and using an axe.  
-- âœ… Supports standard trees, custom trees, and Nether trees.  
-- âœ… Configurable break speed to balance performance and efficiency.  
-- âœ… Supports Silk Touch axes for leaf collection.  
-- âœ… Compatible with custom logs and leaves from other addons.
+- ✅ Quickly harvest entire trees by crouching and using an axe.  
+- ✅ Supports standard trees, custom trees, and Nether trees.  
+- ✅ Configurable break speed to balance performance and efficiency.  
+- ✅ Supports Silk Touch axes for leaf collection.  
+- ✅ Compatible with custom logs and leaves from other addons.
 
 ## **Practical Examples**
 
-- ðŸ”¹ You want to clear a forest quickly â€” just crouch and use your axe on any tree to instantly fell it.  
-- ðŸ”¹ You need Nether resources â€” warped and crimson trees are supported when Nether trees are enabled.
+- 🔹 You want to clear a forest quickly â€” just crouch and use your axe on any tree to instantly fell it.  
+- 🔹 You need Nether resources â€” warped and crimson trees are supported when Nether trees are enabled.
 
 ## **Why Use Tree Harvester?**
 
-âœ”ï¸ Speeds up tree harvesting dramatically.  
-âœ”ï¸ Makes resource gathering much easier for crafting and building.  
-âœ”ï¸ Works with a wide range of trees including custom and Nether varieties.
+✔️ Speeds up tree harvesting dramatically.  
+✔️ Makes resource gathering much easier for crafting and building.  
+✔️ Works with a wide range of trees including custom and Nether varieties.
 
 ## **Configurable**
 
@@ -59,8 +59,8 @@ You can configure the addon directly in the script file located at:
 
 ## **Compatibility**
 
-âœ… Compatible with most addons unless they alter block breaking or player interaction systems.  
-âœ… Fully works in normal worlds and realms.
+✅ Compatible with most addons unless they alter block breaking or player interaction systems.  
+✅ Fully works in normal worlds and realms.
 
 ## **Addon Packs**
 
