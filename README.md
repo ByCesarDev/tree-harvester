@@ -24,11 +24,11 @@ With the **Tree Harvester** addon, you can fell entire trees by simply **crouchi
 
 ## **Key Features**
 
-- ✅ Quickly harvest entire trees by crouching and using an axe.  
-- ✅ Supports standard trees, custom trees, and Nether trees.  
-- ✅ Configurable break speed to balance performance and efficiency.  
-- ✅ Supports Silk Touch axes for leaf collection.  
-- ✅ Compatible with custom logs and leaves from other addons.
+✅ Quickly harvest entire trees by crouching and using an axe.  
+✅ Supports standard trees, custom trees, and Nether trees.  
+✅ Configurable break speed to balance performance and efficiency.  
+✅ Supports Silk Touch axes for leaf collection.  
+✅ Compatible with custom logs and leaves from other addons.
 
 ## **Practical Examples**
 
