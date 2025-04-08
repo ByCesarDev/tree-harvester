@@ -1,0 +1,60 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"CesarDev/ByCesarKun"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.45"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		},
+		"product_type": "addon"
+	},
+	"header": {
+		"name": "Tree Harvester",
+		"description": "",
+		"min_engine_version": [
+			1,
+			21,
+			60
+		],
+		"uuid": "19c3801e-26be-4b7d-8a80-05fcdff46ab2",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "c3a135a3-406d-4033-bd01-1979c20cf315",
+			"version": [
+				1,
+				0,
+				0
+			]
+		},
+		{
+			"type": "script",
+			"language": "javascript",
+			"uuid": "18dfe584-fcf6-4336-bf09-104a2c22fab7",
+			"entry": "scripts/main.js",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"module_name": "@minecraft/server",
+			"version": "1.11.0"
+		}
+	]
+}
