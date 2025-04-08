@@ -32,8 +32,8 @@ With the **Tree Harvester** addon, you can fell entire trees by simply **crouchi
 
 ## **Practical Examples**
 
-🔹 You want to clear a forest quickly â€” just crouch and use your axe on any tree to instantly fell it.  
-🔹 You need Nether resources â€” warped and crimson trees are supported when Nether trees are enabled.
+🔹 You want to clear a forest quickly: Simply crouch and use your axe on the trees to fell them instantly.
+🔹 You need resources from the Nether: With Nether trees enabled, you can quickly harvest warped and crimson trees.
 
 ## **Why Use Tree Harvester?**
 
